@@ -22,6 +22,7 @@ function setup() {
   box2 = new Box(920, 320, 70, 70);
   pig1 = new Pig(810, 350);
   console.log("hi");
+  console.log("Working");
   log1 = new Log(810, 260, 300, PI / 2);
   log6 = new Log(100, 100, 100, PI / 7);
 
